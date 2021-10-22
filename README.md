@@ -1,2 +1,2 @@
-"# my_first_project" 
-"# my_first_project" 
+This was a test to learn github 
+Also the code perform amstrong till n.
