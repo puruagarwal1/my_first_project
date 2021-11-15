@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main (){
 	int num,count = 1,rem,sum,a;
-	printf("enter a number:");
+	printf("Enter a number:");
 
 	fflush(stdin);
 		scanf("%d",&a);
